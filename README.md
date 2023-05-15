@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devninja0425/devninja0425/master/developing3.jpg" />
+  <img src="https://raw.githubusercontent.com/devninja0425/devninja0425/main/developing3.jpg" />
 </p>
 
 <p align="center">
